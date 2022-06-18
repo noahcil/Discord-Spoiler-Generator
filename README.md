@@ -1,5 +1,6 @@
 # Discord-Spoiler-Generator
 Repository that hosts my Discord bubble wrap spoiler generator. It can be used to make discord bubble wrap text of any text, length, and size.
+Feel free to recommend changes
 
 ### Traditional Discord bubble wrap:
 ![discord-bubble-wrap](https://user-images.githubusercontent.com/54943415/174416819-2ca41bf2-96b9-4836-a63e-327fcd97b6ef.gif)

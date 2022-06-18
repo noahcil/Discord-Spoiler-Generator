@@ -1,7 +1,7 @@
 
 public class SpoilerMaker {
 
-	static final String sus = "soos";
+	static final String sus = ""; //input desired spoiler text here, must be at least two characters atm
 	static final int rows = 4;
 	static final int numSusPerLine = 5; //good number for windowed discord clients
 	static final int popLength = (sus.length()%2 == 0) ? sus.length()/2 : sus.length()/3; //if odd number length of sus, divide by 3, else divide by 2 and set to poplength
